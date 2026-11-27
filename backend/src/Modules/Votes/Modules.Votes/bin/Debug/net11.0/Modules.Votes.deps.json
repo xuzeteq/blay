@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "Modules.Votes/1.0.0": {
+        "dependencies": {
+          "Modules.Users.Contracts": "1.0.0",
+          "Modules.Votes.Contracts": "1.0.0",
+          "SharedKernel": "1.0.0"
+        },
+        "runtime": {
+          "Modules.Votes.dll": {}
+        }
+      },
+      "Modules.Users.Contracts/1.0.0": {
+        "runtime": {
+          "Modules.Users.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Modules.Votes.Contracts/1.0.0": {
+        "runtime": {
+          "Modules.Votes.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SharedKernel/1.0.0": {
+        "runtime": {
+          "SharedKernel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modules.Votes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modules.Users.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Modules.Votes.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharedKernel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

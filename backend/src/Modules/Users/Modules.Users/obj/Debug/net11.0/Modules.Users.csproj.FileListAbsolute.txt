@@ -1,0 +1,17 @@
+H:\www\blay\backend\src\Modules\Users\Modules.Users\bin\Debug\net11.0\Modules.Users.deps.json
+H:\www\blay\backend\src\Modules\Users\Modules.Users\bin\Debug\net11.0\Modules.Users.dll
+H:\www\blay\backend\src\Modules\Users\Modules.Users\bin\Debug\net11.0\Modules.Users.pdb
+H:\www\blay\backend\src\Modules\Users\Modules.Users\bin\Debug\net11.0\Modules.Users.Contracts.dll
+H:\www\blay\backend\src\Modules\Users\Modules.Users\bin\Debug\net11.0\SharedKernel.dll
+H:\www\blay\backend\src\Modules\Users\Modules.Users\bin\Debug\net11.0\SharedKernel.pdb
+H:\www\blay\backend\src\Modules\Users\Modules.Users\bin\Debug\net11.0\Modules.Users.Contracts.pdb
+H:\www\blay\backend\src\Modules\Users\Modules.Users\obj\Debug\net11.0\Modules.Users.csproj.AssemblyReference.cache
+H:\www\blay\backend\src\Modules\Users\Modules.Users\obj\Debug\net11.0\Modules.Users.GeneratedMSBuildEditorConfig.editorconfig
+H:\www\blay\backend\src\Modules\Users\Modules.Users\obj\Debug\net11.0\Modules.Users.AssemblyInfoInputs.cache
+H:\www\blay\backend\src\Modules\Users\Modules.Users\obj\Debug\net11.0\Modules.Users.AssemblyInfo.cs
+H:\www\blay\backend\src\Modules\Users\Modules.Users\obj\Debug\net11.0\Modules.Users.csproj.CoreCompileInputs.cache
+H:\www\blay\backend\src\Modules\Users\Modules.Users\obj\Debug\net11.0\Modules..F6B9E46C.Up2Date
+H:\www\blay\backend\src\Modules\Users\Modules.Users\obj\Debug\net11.0\Modules.Users.dll
+H:\www\blay\backend\src\Modules\Users\Modules.Users\obj\Debug\net11.0\refint\Modules.Users.dll
+H:\www\blay\backend\src\Modules\Users\Modules.Users\obj\Debug\net11.0\Modules.Users.pdb
+H:\www\blay\backend\src\Modules\Users\Modules.Users\obj\Debug\net11.0\ref\Modules.Users.dll

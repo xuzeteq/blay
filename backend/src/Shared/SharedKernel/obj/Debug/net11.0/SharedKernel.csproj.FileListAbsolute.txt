@@ -1,0 +1,12 @@
+H:\www\blay\backend\src\Shared\SharedKernel\bin\Debug\net11.0\SharedKernel.deps.json
+H:\www\blay\backend\src\Shared\SharedKernel\bin\Debug\net11.0\SharedKernel.dll
+H:\www\blay\backend\src\Shared\SharedKernel\bin\Debug\net11.0\SharedKernel.pdb
+H:\www\blay\backend\src\Shared\SharedKernel\obj\Debug\net11.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+H:\www\blay\backend\src\Shared\SharedKernel\obj\Debug\net11.0\SharedKernel.AssemblyInfoInputs.cache
+H:\www\blay\backend\src\Shared\SharedKernel\obj\Debug\net11.0\SharedKernel.AssemblyInfo.cs
+H:\www\blay\backend\src\Shared\SharedKernel\obj\Debug\net11.0\SharedKernel.csproj.CoreCompileInputs.cache
+H:\www\blay\backend\src\Shared\SharedKernel\obj\Debug\net11.0\SharedKernel.dll
+H:\www\blay\backend\src\Shared\SharedKernel\obj\Debug\net11.0\refint\SharedKernel.dll
+H:\www\blay\backend\src\Shared\SharedKernel\obj\Debug\net11.0\SharedKernel.pdb
+H:\www\blay\backend\src\Shared\SharedKernel\obj\Debug\net11.0\ref\SharedKernel.dll
+H:\www\blay\backend\src\Shared\SharedKernel\obj\Debug\net11.0\SharedKe.80CED6BF.Up2Date

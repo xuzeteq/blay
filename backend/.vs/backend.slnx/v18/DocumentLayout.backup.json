@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\www\\blay\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDB2274-5430-B722-A3FF-4D6ED2A8CC90}|src\\Modules\\Users\\Modules.Users\\Modules.Users.csproj|h:\\www\\blay\\backend\\src\\modules\\users\\modules.users\\usersmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDB2274-5430-B722-A3FF-4D6ED2A8CC90}|src\\Modules\\Users\\Modules.Users\\Modules.Users.csproj|solutionrelative:src\\modules\\users\\modules.users\\usersmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA33573-A525-1376-4E0E-735EC1A297BC}|src\\Host\\Host.csproj|h:\\www\\blay\\backend\\src\\host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA33573-A525-1376-4E0E-735EC1A297BC}|src\\Host\\Host.csproj|solutionrelative:src\\host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDB2274-5430-B722-A3FF-4D6ED2A8CC90}|src\\Modules\\Users\\Modules.Users\\Modules.Users.csproj|h:\\www\\blay\\backend\\src\\modules\\users\\modules.users\\features\\twithauth\\twitchauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDB2274-5430-B722-A3FF-4D6ED2A8CC90}|src\\Modules\\Users\\Modules.Users\\Modules.Users.csproj|solutionrelative:src\\modules\\users\\modules.users\\features\\twithauth\\twitchauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA33573-A525-1376-4E0E-735EC1A297BC}|src\\Host\\Host.csproj|h:\\www\\blay\\backend\\src\\host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DA33573-A525-1376-4E0E-735EC1A297BC}|src\\Host\\Host.csproj|solutionrelative:src\\host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\www\\blay\\backend\\src\\Host\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Host\\Program.cs",
+              "ToolTip": "H:\\www\\blay\\backend\\src\\Host\\Program.cs",
+              "RelativeToolTip": "src\\Host\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T06:46:27.305Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TwitchAuthController.cs",
+              "DocumentMoniker": "H:\\www\\blay\\backend\\src\\Modules\\Users\\Modules.Users\\Features\\TwithAuth\\TwitchAuthController.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\Users\\Modules.Users\\Features\\TwithAuth\\TwitchAuthController.cs",
+              "ToolTip": "H:\\www\\blay\\backend\\src\\Modules\\Users\\Modules.Users\\Features\\TwithAuth\\TwitchAuthController.cs",
+              "RelativeToolTip": "src\\Modules\\Users\\Modules.Users\\Features\\TwithAuth\\TwitchAuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T06:41:49.241Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersModule.cs",
+              "DocumentMoniker": "H:\\www\\blay\\backend\\src\\Modules\\Users\\Modules.Users\\UsersModule.cs",
+              "RelativeDocumentMoniker": "src\\Modules\\Users\\Modules.Users\\UsersModule.cs",
+              "ToolTip": "H:\\www\\blay\\backend\\src\\Modules\\Users\\Modules.Users\\UsersModule.cs",
+              "RelativeToolTip": "src\\Modules\\Users\\Modules.Users\\UsersModule.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-27T06:01:30.903Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\www\\blay\\backend\\src\\Host\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Host\\appsettings.json",
+              "ToolTip": "H:\\www\\blay\\backend\\src\\Host\\appsettings.json",
+              "RelativeToolTip": "src\\Host\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-27T05:59:41.362Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

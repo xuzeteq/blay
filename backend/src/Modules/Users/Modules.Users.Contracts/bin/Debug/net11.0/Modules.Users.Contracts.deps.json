@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "Modules.Users.Contracts/1.0.0": {
+        "runtime": {
+          "Modules.Users.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modules.Users.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net11.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\SharedKernel\SharedKernel.csproj" />
+    <ProjectReference Include="..\..\Users\Modules.Users.Contracts\Modules.Users.Contracts.csproj" />
+    <ProjectReference Include="..\Modules.Votes.Contracts\Modules.Votes.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

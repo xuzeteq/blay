@@ -1,0 +1,12 @@
+H:\www\blay\backend\src\Modules\Users\Modules.Users.Contracts\bin\Debug\net11.0\Modules.Users.Contracts.deps.json
+H:\www\blay\backend\src\Modules\Users\Modules.Users.Contracts\bin\Debug\net11.0\Modules.Users.Contracts.dll
+H:\www\blay\backend\src\Modules\Users\Modules.Users.Contracts\bin\Debug\net11.0\Modules.Users.Contracts.pdb
+H:\www\blay\backend\src\Modules\Users\Modules.Users.Contracts\obj\Debug\net11.0\Modules.Users.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+H:\www\blay\backend\src\Modules\Users\Modules.Users.Contracts\obj\Debug\net11.0\Modules.Users.Contracts.AssemblyInfoInputs.cache
+H:\www\blay\backend\src\Modules\Users\Modules.Users.Contracts\obj\Debug\net11.0\Modules.Users.Contracts.AssemblyInfo.cs
+H:\www\blay\backend\src\Modules\Users\Modules.Users.Contracts\obj\Debug\net11.0\Modules.Users.Contracts.csproj.CoreCompileInputs.cache
+H:\www\blay\backend\src\Modules\Users\Modules.Users.Contracts\obj\Debug\net11.0\Modules.Users.Contracts.dll
+H:\www\blay\backend\src\Modules\Users\Modules.Users.Contracts\obj\Debug\net11.0\refint\Modules.Users.Contracts.dll
+H:\www\blay\backend\src\Modules\Users\Modules.Users.Contracts\obj\Debug\net11.0\Modules.Users.Contracts.pdb
+H:\www\blay\backend\src\Modules\Users\Modules.Users.Contracts\obj\Debug\net11.0\ref\Modules.Users.Contracts.dll
+H:\www\blay\backend\src\Modules\Users\Modules.Users.Contracts\obj\Debug\net11.0\Modules..3B00205D.Up2Date

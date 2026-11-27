@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "Modules.Users.Features.TwithAuth.TwitchAuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/twitch/login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Modules.Users.Features.TwithAuth.TwitchAuthController",
+    "Method": "Logout",
+    "RelativePath": "api/auth/twitch/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Modules.Users.Features.TwithAuth.TwitchAuthController",
+    "Method": "Me",
+    "RelativePath": "api/auth/twitch/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Modules.Users.Features.GetAllUsers.GetAllUsersController",
+    "Method": "GetAllUsersAsync",
+    "RelativePath": "api/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

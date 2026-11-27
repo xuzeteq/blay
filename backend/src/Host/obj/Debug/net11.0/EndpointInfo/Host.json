@@ -1,0 +1,73 @@
+{
+  "openapi": "3.2.0",
+  "info": {
+    "title": "Host | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://localhost:7103"
+    },
+    {
+      "url": "http://localhost:5261"
+    }
+  ],
+  "paths": {
+    "/api/auth/twitch/login": {
+      "get": {
+        "tags": [
+          "TwitchAuth"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/auth/twitch/me": {
+      "get": {
+        "tags": [
+          "TwitchAuth"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/auth/twitch/logout": {
+      "post": {
+        "tags": [
+          "TwitchAuth"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/users": {
+      "get": {
+        "tags": [
+          "GetAllUsers"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "GetAllUsers"
+    },
+    {
+      "name": "TwitchAuth"
+    }
+  ]
+}
